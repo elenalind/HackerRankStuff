@@ -1,3 +1,3 @@
-# Mark-and-Toys
+# My HackerRank solutions
 
-A solution to Mark and Toys challenge from hackerrank using loops only, no other data structures than a list 
+Adding here some of my solutions to the hackerrank challenges
